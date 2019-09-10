@@ -7,6 +7,7 @@
 druga tabela bez razmaka oko |
 
 |asdf|asefs|ada|
+|-|-|-|
 
 ## treca tabela sa razmakom sa samo jednim redom
 | asdf | asefs | ada |
