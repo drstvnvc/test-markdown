@@ -1,8 +1,9 @@
 # test-markdown
 
-| prva kolona   | druga kolona | asdf |
-|---------------|--------------|------|
-| prvi red prve kolone | asdf | sa |
+| lijevo poravnat sadrzaj | centriran sadrzaj kolone | desno | default |
+|:--------------|:--------------:|------:|-|
+| prvi red prve kolone | asdf | sa |asef|
+| kolone | asdfsasdf | safkjh kjhafa | a asef|
 
 druga tabela bez razmaka oko |
 
